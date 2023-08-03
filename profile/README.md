@@ -1,12 +1,11 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/xoFeulB/.github/assets/31212444/4874256e-3c29-433c-9c9e-0774f5d6ee24" width="250px" height="250px">
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+<h1 align="center">Hi 👋, We're BlueFox!</h1>
+<h3 align="center">
+  <div>BlueFox is a web automation solution for professionals working in harsh web contract development sites.</div>
+  <div>BlueFoxは、過酷なWebの受託開発現場で働くプロフェッショナルのためのWeb自動化ソリューションです</div>
+</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
