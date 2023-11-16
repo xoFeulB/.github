@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, We're BlueFox!</h1>
+<h1 align="center">Hi 👋, We're BlueFoxEnterprise!</h1>
 <h3 align="center">
   <div>BlueFox is a web automation solution for professionals working in harsh web contract development sites.</div>
   <div>BlueFoxは、過酷なWebの受託開発現場で働くプロフェッショナルのためのWeb自動化ソリューションです</div>
