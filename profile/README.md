@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ooo.bluefox.ooo/media/tail.png" width="500px" height="500px">
+<img src="https://ooo.bluefox.ooo/media/tail.png" width="300px">
 </div>
 
 
