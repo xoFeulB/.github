@@ -12,6 +12,8 @@
 
 # ^.,.^ BlueFox
 
+https://github.com/xoFeulB/BlueFox
+
 <div align="center">
     <img src="https://ooo.bluefox.ooo/media/SocialPreview_4.png">
 </div>
