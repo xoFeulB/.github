@@ -29,7 +29,7 @@ Pursuing a superior user experience
 https://github.com/xoFeulB/BlueFox
 
 <div align="center">
-    <img src="https://ooo.bluefox.ooo/media/SocialPreview_4.png">
+    <img src="https://ooo.bluefox.ooo/media/SocialPreview_1.png">
 </div>
 
 ### About The Project
