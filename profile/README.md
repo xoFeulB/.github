@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, We're BlueFoxEnterprise!</h1>
 <div align="center">
-    <h3>Agile Web Automation Software for Time-Starved Professionals</h3>
+    <h3>Web Automation Software for Time-Starved Professionals</h3>
 </div>
 
 # ^.,.^ Culture
